@@ -1,0 +1,6 @@
+{
+    "db_url": "localhost",
+    "db_name": "click_and_collect",
+    "db_login": "root",
+    "db_password": ""
+}

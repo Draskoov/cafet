@@ -1,0 +1,21 @@
+#menu_style {
+    background-image: url('img/coucou.jpg');
+    background-size: 110%;
+}
+
+.img-responsive {
+    width: 300px;
+    height: 200px;
+}
+
+.table {
+    margin-bottom: 0%;
+}
+
+h1{
+    position: fixed;
+    color: white;
+    margin: 10% 10%;
+    background-color: #9e2a2a;
+
+}
